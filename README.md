@@ -2,7 +2,7 @@
 
 ## What is Artificial-Intelligence and Machine Learning?
 
-- Artifical Intelligence
+- Artifical Intelligence is used go perform tasks that requires human intelligence, such as speech recognition and decision making. 
 
 - Machine learning is part of AI which provides the system for the ability to learn from experiences in order for these 
 technologies to become better
