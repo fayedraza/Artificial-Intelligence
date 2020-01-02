@@ -20,7 +20,12 @@ technologies to become better
 
 - AI enabled bots can identify recent code changes and check current state of tests.
 
+## AI Techniques 
 
+### Neural Machine Translation 
+
+- Machine translates language from one to another
+- Neural Machine Translation translates 
 
 
 
