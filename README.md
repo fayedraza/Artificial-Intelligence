@@ -44,6 +44,12 @@ technologies to become better.
 - Facial recognition
 - Snapchat
 
+#  How does neural machine translation work?
+
+![IMG_2538](https://user-images.githubusercontent.com/42160652/71714782-24fffd00-2ddd-11ea-85f4-bb8a7ad94914.jpeg)
+
+###### Deeping learning is worked through neural networks that handles the info. After that, machine learning does its job where it takes its data to do what it is supposed to do.
+
 # How does a artificial neural network apply to nerual machine translation ?
 
 <img width="1194" alt="View recent photos" src="https://user-images.githubusercontent.com/42160652/71714646-b3c04a00-2ddc-11ea-92f1-f5c4b13f2c24.png">
@@ -56,6 +62,11 @@ technologies to become better.
 
 - A word is taken and the neural network converts it to vertices
 - The vertices convert it back to the input in a different language 
+
+![IMG_2538](https://user-images.githubusercontent.com/42160652/71714782-24fffd00-2ddd-11ea-85f4-bb8a7ad94914.jpeg)
+
+###### In this case music can be passed to a neural network in order to make better music.
+
 
 
 
@@ -84,3 +95,5 @@ technologies to become better.
 ### Resources
 
 - https://blog.parasoft.com/what-is-artificial-intelligence-in-software-testing
+
+- https://youtu.be/bfmFfD2RIcg
