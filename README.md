@@ -26,6 +26,7 @@ technologies to become better.
 
 - It predicts the sequence of words.
 - It uses neural machine translation. 
+- It learns from experience.
 
 # How much memory do they need?
   They only need a fraction a memory unlike statistical machine translation.
@@ -34,8 +35,8 @@ technologies to become better.
   They do not need as much time as statistical machine translation.
   
 # How does neural machine translation work?
-
-- 
+ - The neural network takes an input and convert it to vectors in matrices for the computer to understand.
+ - The neural network converts the number back.
 
 # Examples of nerual machine translation
 
@@ -43,15 +44,18 @@ technologies to become better.
 - Facial recognition
 - Snapchat
 
-**What is a Artificial Neural Network ?**
-- 
+# How does a artificial neural network apply to nerual machine translation ?
+
+<img width="1194" alt="View recent photos" src="https://user-images.githubusercontent.com/42160652/71714646-b3c04a00-2ddc-11ea-92f1-f5c4b13f2c24.png">
 
 ![1*f0hA2R652htmc1EaDrgG8g](https://user-images.githubusercontent.com/42160652/71711505-6b4e5f80-2dcf-11ea-8fee-a43e008d088d.png)
 
 ###### Model of a Artificial Neural Network
 
+**Real World Example: Google Translate**
 
-
+- A word is taken and the neural network converts it to vertices
+- The vertices convert it back to the input in a different language 
 
 
 
